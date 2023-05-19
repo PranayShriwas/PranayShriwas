@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/pranay_shriwas" target="blank"><img src="https://img.shields.io/twitter/follow/pranay_shriwas?logo=twitter&style=for-the-badge" alt="pranay_shriwas" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce Website(Shopy)**
+- 🔭 I’m currently working on **Ecommerce Website(Shopy-EKART)**
 
 - 🌱 I’m currently learning **Django,Fastapi,Flask,DRH**
 
