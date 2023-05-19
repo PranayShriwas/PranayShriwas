@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranay Shriwas</h1>
 <h3 align="center">Python and Django Full Stack Web Developer Bootcamp. Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Python 3 , and Django!</h3>
-<img align="right" width=400 alt='Coding' src="https://camo.githubusercontent.com/880fa5e043822807bcf0819cfe2514333c08a58e052419fd7dd37177f1470c52/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3835302f312a7a566e574a7479474f585f6b5549446d3663634366512e676966">
+<img align='right' alt='Coding' width=400 src='https://camo.githubusercontent.com/880fa5e043822807bcf0819cfe2514333c08a58e052419fd7dd37177f1470c52/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3835302f312a7a566e574a7479474f585f6b5549446d3663634366512e676966'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranayshriwas&label=Profile%20views&color=0e75b6&style=flat" alt="pranayshriwas" /> </p>
 
@@ -16,11 +16,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/pranay-shriwas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/pranay-shriwas" height="30" width="40" /></a>
+<a href="https://codepen.io/pranay-shriwas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pranay-shriwas" height="30" width="40" /></a>
 <a href="https://twitter.com/pranay_shriwas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranay_shriwas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pranay-shriwas-b53888262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranay-shriwas-b53888262/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21294825/pranay-shriwas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21294825/pranay-shriwas" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/hindu__sarkar_?igshid=mznlngnkzwq4mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/hindu__sarkar_?igshid=mznlngnkzwq4mg==" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pranay-shriwas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranay-shriwas" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/pranay-shriwas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pranay-shriwas" height="30" width="40" /></a>
+<a href="https://instagram.com/hindu__sarkar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hindu__sarkar_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
