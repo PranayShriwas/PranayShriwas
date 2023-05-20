@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Ecommerce Website(Shopy-EKART)**
 
-- 🌱 I’m currently learning **Django,Fastapi,Flask,DRH**
+- 🌱 I’m currently learning **Django,Fastapi,Flask,DRF**
 
 - 💬 Ask me about **Html,Css,JavaScript,Bootstrap,Jquery,React,Python,Sql,PlSql**
 
