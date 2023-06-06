@@ -1,3 +1,4 @@
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Pranay Shriwas</h1>
 <h3 align="center">A Passionate Python Full Stack Developer From India</h3>
 <img align='right' alt='Coding' width=400 src='https://camo.githubusercontent.com/880fa5e043822807bcf0819cfe2514333c08a58e052419fd7dd37177f1470c52/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3835302f312a7a566e574a7479474f585f6b5549446d3663634366512e676966'>
